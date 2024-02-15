@@ -8,7 +8,6 @@ public class PersonalFinanceCoreApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PersonalFinanceCoreApplication.class, args);
-		System.out.println("heelllo");
 	}
 
 }
